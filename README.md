@@ -1,31 +1,231 @@
-# Hi there, I'm Ashish Kumar 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=2,12,20,24&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20Future%20%7C%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20VLSI%20%E2%80%A2%20Software%20Engineering&descSize=19&descAlignY=60&animation=fadeIn"/>
+</p>
 
-### Electronics & Communication Engineering Student
 
-Curious by nature and driven by continuous learning. I'm exploring **Software Engineering**, **Git & GitHub**, and **AI Tools** while strengthening my skills in **Python** and **C++**.
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Curious+Learner;Python+%7C+C%2B%2B+Enthusiast;Learning+Git+%26+GitHub;Exploring+AI+Tools;Building+One+Project+at+a+Time" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+### **From Circuits to Code 🚀**
+
+</div>
 
 ---
 
-## 🚀 Currently Learning
+# 👨‍💻 About Me
+
+```text
+┌───────────────────────────────────────────────────────────────┐        
+│ 👋 Name      : Ashish Kumar                                   │
+│ 🎓 Degree    : Electronics & Communication Engineering        │
+│ 💻 Learning  : Python • C++ • Git • GitHub • AI Tools        │
+│ 🎯 Goal      : VLSI Engineer | Software Engineer              │
+│ 🌱 Mindset   : Curious • Consistent • Lifelong Learner        │
+└───────────────────────────────────────────────────────────────┘
+```
+
+> **Curious by nature and driven by continuous learning.**
+>
+> I'm currently exploring **Software Engineering**, **Git & GitHub**, and **AI Tools** while strengthening my programming skills in **Python** and **C++**.
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"/>
+
+</p>
+
+```text
+Python                █████████░░░░░░░░
+
+C++                   ████████░░░░░░░░░
+
+Git                   ████░░░░░░░░░░░░░
+
+GitHub                ████░░░░░░░░░░░░░
+
+Software Engineering  ███░░░░░░░░░░░░░░
+
+AI Tools              █████░░░░░░░░░░░░
+```
+
+---
+
+# 🛠 Tech Stack
+
+<table>
+<tr>
+<td>
+
+### Languages
+
+- 🐍 Python
+- ⚙️ C++
+
+</td>
+
+<td>
+
+### Tools
+
+- 🌿 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+</td>
+
+<td>
+
+### Exploring
+
+- 🤖 AI Tools
+- 📚 Software Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+☑ Learn Python
+
+☑ Learn C++
+
+◉ Master Git
+
+◉ Master GitHub
+
+○ Build Portfolio Website
+
+○ Contribute to Open Source
+
+○ Learn GitHub Actions
+
+○ Build AI Projects
+
+○ Explore Full-Stack Development
+```
+
+---
+
+# 📂 Featured Projects
+
+> 🚧 **Currently building my portfolio.**
+
+```text
+📘 Python Learning Journey
+
+⚙️ C++ Practice Repository
+
+🌿 Git & GitHub Learning
+
+🌐 Portfolio Website
+
+🤖 AI Experiments
+
+🚀 Open Source Contributions
+```
+
+---
+
+# 📈 GitHub Journey
+
+```text
+Learning         ██████████░░░░░░
+
+Consistency      ████████████████
+
+Curiosity        ████████████████
+
+Projects          ██░░░░░░░░░░░░░
+```
+
+---
+## 🌱 Currently Focusing On
 
 - 🐍 Python
 - ⚙️ C++
 - 🌿 Git & GitHub
 - 🤖 AI Tools
+- 💻 Software Engineering
+- 🔌 IoT & Embedded Systems
+  
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamashish-36&theme=transparent"/>
+
+</p>
 
 ---
 
-## 🎯 Goals
+# 🌱 Philosophy
 
-- Build meaningful software projects
-- Contribute to Open Source
-- Grow as a Software Engineer
-- Explore VLSI & AI
+<div align="center">
+
+## **Think • Build • Learn • Repeat.**
+
+### *Always Curious • Always Learning • Always Improving.*
+
+</div>
 
 ---
 
-## 🧠 Philosophy
+# 💬 Favorite Quote
 
-> **Think • Build • Learn • Repeat.**
+> *"Success is the sum of small efforts, repeated day in and day out."*  
+> **— Robert Collier**
 
-> **Always Curious • Always Learning • Always Improving.**
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/iamashish-36">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+> *"Building my future, one commit at a time."*
+
+**Electronics • Software • AI • Innovation**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
+
+</div>
