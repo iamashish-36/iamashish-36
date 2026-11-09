@@ -1,185 +1,155 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=2,12,20,24&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20Future%20%7C%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20VLSI%20Design%20Engineering&descSize=19&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=2,12,20,24&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20ECE%20Student%20%7C%20Aspiring%20VLSI%20%2F%20RTL%20Design%20Engineer&descSize=19&descAlignY=60&animation=fadeIn"/>
 </p>
 
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Curious+Learner;Python+%7C+C%2B%2B+Enthusiast;Learning+Git+%26+GitHub;Exploring+AI+Tools;Building+One+Project+at+a+Time" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Curious+Learner;Python+%7C+C%2B%2B+Enthusiast;Exploring+Digital+Design+%26+VLSI;Learning+Git+%26+GitHub;Building+One+Project+at+a+Time"/>
 </p>
 
-<p>
-
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge"/>
 </p>
 
 ### **From Circuits to Code 🚀**
-
-</div>
 
 ---
 
 # 👨‍💻 About Me
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ 👋 Name      : Ashish Kumar                                            │
-│ 🎓 Degree    : Electronics & Communication Engineering                 │
-│ 💻 Learning  : C • C++ • Python • Verilog HDL • SystemVerilog          │
-│ 🛠️ Tools     : Git • GitHub • GTKWave • HDLBits • Icarus Verilog       │
-│                Xilinx Vivado • Yosys • Linux Terminal                  │
-│                Tinkercad • Creo • Proteus                               │
-│ 📚 Knowledge : Basic C • C++ • Python • Tinkercad • Creo • Proteus     │
-│ 🎯 Goal      : VLSI Design Engineer | Software Engineer                │                      
-└────────────────────────────────────────────────────────────────────────┘
-```
+Hi! I'm **Ashish Kumar**, a first-year B.Tech student in Electronics and Communication Engineering (ECE) at **Lovely Professional University (LPU), India**.
+
+I'm interested in **electronics, digital design, VLSI, programming, software engineering and emerging technologies**.
+
+I'm currently strengthening my foundations in **C, C++ and Python**, while developing my understanding of digital electronics and exploring Verilog HDL and RTL design.
+
+I also enjoy working on practical ideas. I've developed an Arduino-based hardware game, participated in a hackathon where I qualified for Round 2, and experimented with building websites for personal learning.
+
+My long-term goal is to become a **VLSI / RTL Design Engineer** by building strong technical foundations and gaining practical project experience.
 
 > **Curious by nature and driven by continuous learning.**
->
-> I'm an Electronics & Communication Engineering student interested in **VLSI Design, Digital Electronics, Software Engineering, and Emerging Technologies**.
->
-> I'm currently building my technical skills in **C, C++, Python, Verilog HDL, and SystemVerilog**, while exploring industry-relevant tools for digital design, simulation, synthesis, and verification. I also have basic knowledge of **C, C++, Python, Tinkercad, Creo, and Proteus**.
->
-> My goal is to continuously improve my technical knowledge, work on practical projects, and grow into a skilled **VLSI Design Engineer**.
 
 ---
 
-### 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
-**💻 Programming Languages**
-- C Programming (Basics)
-- C++ (Basics)
-- Python (Basics)
+### 💻 Programming Languages
+- C Programming (Basic)
+- C++ (Basic)
+- Python (Basic)
 
-**🔌 HDL & Digital Design**
-- Verilog HDL
-- SystemVerilog
+### 🔌 Digital Design & HDL
+- Digital Electronics
+- Verilog HDL (Learning)
+- SystemVerilog (Exploring)
 
-**🧪 Simulation & Verification**
-- Icarus Verilog
-- GTKWave
-- HDLBits
+### 🧪 Simulation & Verification
+- HDLBits (Learning resource)
+- Icarus Verilog (To explore)
+- GTKWave (To explore)
 
-**⚡ FPGA & Synthesis Tools**
-- Xilinx Vivado
-- Yosys
+### ⚡ FPGA & Synthesis Tools
+- Xilinx Vivado (To explore)
+- Yosys (To explore)
 
-**🔧 Electronics & CAD Tools**
-- Tinkercad (Basics)
-- Proteus (Basics)
-- Creo (Basics)
+### 🔧 Electronics & CAD Tools
+- Arduino
+- Tinkercad (Basic familiarity)
+- Proteus (Basic familiarity)
+- Creo (Basic familiarity)
 
-**🐧 Development & Version Control**
-- Linux Terminal
+### 🐧 Development & Version Control
 - Git
 - GitHub
-
-**🤖 Other Interests**
-- Software Engineering
-- AI Tools
-- Digital Electronics
-- VLSI Design
+- Linux Terminal (To explore)
+- Visual Studio Code
 
 ---
 
-### 🎯 Career Goal
+# 🚀 Projects
 
-Aspiring **VLSI Design Engineer**, focused on developing strong foundations in digital electronics, RTL design, Verilog, SystemVerilog, simulation, synthesis, and verification while continuously improving programming and problem-solving skills.
+### 🎮 Arduino-Based Game
+
+An interactive memory game developed using Arduino Uno, LEDs, push buttons and a servo motor.
+
+**Features:**
+- LED-based sequence generation
+- Player input through push buttons
+- Memory game mode
+- Two-player battle mode
+
+**Technologies:** Arduino, C/C++.
+
+🔗 [View Project Repository](https://github.com/iamashish-36/Arduino-Based-Game)
+
+### 🌐 Personal Website Experiments
+
+I've also experimented with building websites locally as part of my personal learning and exploration of web development.
+
+---
+
+
+## 🏆 Hackathons & Achievements
+
+### CODE-A-THON 2.0 2026 – Metaverse
+
+**Team:** The Quantum Coders  
+**Organised by:** Department of Student Organization (DSO), Lovely Professional University  
+**Date:** 25 September 2026  
+**Duration:** 24 Hours | 3 Rounds
+
+- Participated in a 24-hour hackathon as a member of Team The Quantum Coders.
+- Progressed to Round 2 of the competition.
+- Received a Certificate of Participation issued by **Sigma Fusion – Technology & Digital Solutions**.
+- Successfully completed the **Build with Meander™** program, receiving a certificate from **Meander Software Private Limited**.
+
+
+---
 
 # 🚀 Currently Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"/>
 </p>
 
-```text
-Creo                    █████████░░░░░░░░
-
-C++                     ████████░░░░░░░░░
-
-C                       ████░░░░░░░░░░░░░
-
-GitHub                  ████░░░░░░░░░░░░░
-
-VLSI Design Engineering ███░░░░░░░░░░░░░░
-
-AI Tools                █████░░░░░░░░░░░░
-```
+- 🐍 **Python** – Strengthening programming fundamentals.
+- ⚙️ **C and C++** – Improving coding and problem-solving skills.
+- 🌿 **Git & GitHub** – Learning version control and project management.
+- 🔌 **Digital Electronics** – Understanding logic gates and digital circuits.
+- 💻 **VLSI Design** – Exploring semiconductor and digital chip design concepts.
+- 🤖 **AI Tools** – Exploring AI-powered tools and technologies.
 
 ---
 
-# 🛠 Tech Stack
+# 🎯 Learning Roadmap
 
-<table>
-<tr>
-<td>
-
-### Languages
-- 🐍 Python
-- ⚙️ C / C++
-
-</td>
-<td>
-
-### Tools
-- 🌿 Git & GitHub
-- 💻 VS Code
-- 🔧 Proteus
-- 📐 Creo
-
-</td>
-<td>
-
-### Exploring
-- 🤖 AI Tools
-- 🔌 VLSI 
-
-</td>
-</tr>
-</table>
-
-# 🎯 2026 Roadmap
+My learning roadmap focuses on developing strong foundations in electronics, programming and VLSI design.
 
 ```text
-☑ Learn Python
+☑ Explore Python Programming
 
-☑ Learn C++
+☑ Learn C++ Fundamentals
 
-◉ Master GitHub
+◉ Improve Git & GitHub Skills
 
-○ Build Portfolio Website
+○ Strengthen Digital Electronics
 
-○ Contribute to Open Source
+○ Learn Verilog HDL
 
-○ Learn GitHub Actions
+○ Practise RTL Design and Simulation
 
-○ Build Projects
+○ Explore FPGA Design and Synthesis
 
-○ Explore Semiconductor
+○ Learn SystemVerilog and Verification
+
+○ Build Practical Technical Projects
+
+○ Explore VLSI Design Opportunities
 ```
-
-## 🌱 Currently Focusing On
-
-- 🐍 **Python** – Strengthening programming fundamentals
-- ⚙️ **C++** – Improving coding and problem-solving skills
-- 🌿 **Git & GitHub** – Version control and project management
-- 🤖 **AI Tools** – Exploring AI-powered tools and technologies
-- 💻 **VLSI Design Engineering** – Learning development concepts and practices
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamashish-36&theme=transparent"/>
-
-</p>
-
----
 
 # 🌱 Philosophy
 
@@ -193,42 +163,21 @@ AI Tools                █████░░░░░░░░░░░░
 
 ---
 
-# 💬 Favorite Quote
-
-> *"Success is the sum of small efforts, repeated day in and day out."*  
-> **— Robert Collier**
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/iamashish-36">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/iamashish-36">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-<div align="center">
-
 ### ⭐ Thanks for stopping by!
 
-> *"Building my future, one commit at a time."*
-
-**Electronics • Software • AI • Innovation**
+**Electronics • Software • AI • Digital Design • VLSI**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
