@@ -42,7 +42,13 @@ My long-term goal is to become a **VLSI / RTL Design Engineer** by building stro
 - C++ (Basic)
 - Python (Basic)
 
-### 🔌 Digital Design & HDL
+### 🔧 Electronics & CAD Tools
+- Arduino
+- Tinkercad (Basic familiarity)
+- Proteus (Basic familiarity)
+- Creo (Basic familiarity)
+
+### 🔌 Digital Design & HDL  
 - Digital Electronics
 - Verilog HDL (Learning)
 - SystemVerilog (Exploring)
@@ -55,13 +61,6 @@ My long-term goal is to become a **VLSI / RTL Design Engineer** by building stro
 ### ⚡ FPGA & Synthesis Tools
 - Xilinx Vivado (To explore)
 - Yosys (To explore)
-
-### 🔧 Electronics & CAD Tools
-- Arduino
-- Tinkercad (Basic familiarity)
-- Proteus (Basic familiarity)
-- Creo (Basic familiarity)
-
 ---
 
 # 🚀 Projects
@@ -126,8 +125,10 @@ I've also experimented with building websites locally as part of my personal lea
   <a href="https://github.com/iamashish-36">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/ashish-kumar-2678a3427/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 <div align="center">
