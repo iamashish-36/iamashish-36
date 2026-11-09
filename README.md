@@ -27,7 +27,7 @@ I'm interested in **electronics, digital design, VLSI, programming, software eng
 
 I'm currently strengthening my foundations in **C, C++ and Python**, while developing my understanding of digital electronics and exploring Verilog HDL and RTL design.
 
-I also enjoy working on practical ideas. I've developed an Arduino-based hardware game, participated in a hackathon where I qualified for Round 2, and experimented with building websites for personal learning.
+I also enjoy working on practical ideas. I've developed an Arduino-based hardware game, participated in a hackathon, and experimented with building websites for personal learning.
 
 My long-term goal is to become a **VLSI / RTL Design Engineer** by building strong technical foundations and gaining practical project experience.
 
