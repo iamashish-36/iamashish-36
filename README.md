@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=2,12,20,24&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20Future%20%7C%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20VLSI%20%E2%80%A2%20Software%20Engineering&descSize=19&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=2,12,20,24&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20Future%20%7C%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20VLSI%20Design%20Engineering&descSize=19&descAlignY=60&animation=fadeIn"/>
 </p>
 
 
@@ -26,20 +26,69 @@
 # 👨‍💻 About Me
 
 ```text
-┌───────────────────────────────────────────────────────────────┐        
-│ 👋 Name      : Ashish Kumar                                   │
-│ 🎓 Degree    : Electronics & Communication Engineering        │
-│ 💻 Learning  : Python • C++ • Git • GitHub • AI Tools        │
-│ 🎯 Goal      : VLSI Engineer | Software Engineer              │
-│ 🌱 Mindset   : Curious • Consistent • Lifelong Learner        │
-└───────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│ 👋 Name      : Ashish Kumar                                            │
+│ 🎓 Degree    : Electronics & Communication Engineering                 │
+│ 💻 Learning  : C • C++ • Python • Verilog HDL • SystemVerilog          │
+│ 🛠️ Tools     : Git • GitHub • GTKWave • HDLBits • Icarus Verilog       │
+│                Xilinx Vivado • Yosys • Linux Terminal                  │
+│                Tinkercad • Creo • Proteus                               │
+│ 📚 Knowledge : Basic C • C++ • Python • Tinkercad • Creo • Proteus     │
+│ 🎯 Goal      : VLSI Design Engineer | Software Engineer                │                      
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 > **Curious by nature and driven by continuous learning.**
 >
-> I'm currently exploring **Software Engineering**, **Git & GitHub**, and **AI Tools** while strengthening my programming skills in **Python** and **C++**.
+> I'm an Electronics & Communication Engineering student interested in **VLSI Design, Digital Electronics, Software Engineering, and Emerging Technologies**.
+>
+> I'm currently building my technical skills in **C, C++, Python, Verilog HDL, and SystemVerilog**, while exploring industry-relevant tools for digital design, simulation, synthesis, and verification. I also have basic knowledge of **C, C++, Python, Tinkercad, Creo, and Proteus**.
+>
+> My goal is to continuously improve my technical knowledge, work on practical projects, and grow into a skilled **VLSI Design Engineer**.
 
 ---
+
+### 🛠️ Skills & Tools
+
+**💻 Programming Languages**
+- C Programming (Basics)
+- C++ (Basics)
+- Python (Basics)
+
+**🔌 HDL & Digital Design**
+- Verilog HDL
+- SystemVerilog
+
+**🧪 Simulation & Verification**
+- Icarus Verilog
+- GTKWave
+- HDLBits
+
+**⚡ FPGA & Synthesis Tools**
+- Xilinx Vivado
+- Yosys
+
+**🔧 Electronics & CAD Tools**
+- Tinkercad (Basics)
+- Proteus (Basics)
+- Creo (Basics)
+
+**🐧 Development & Version Control**
+- Linux Terminal
+- Git
+- GitHub
+
+**🤖 Other Interests**
+- Software Engineering
+- AI Tools
+- Digital Electronics
+- VLSI Design
+
+---
+
+### 🎯 Career Goal
+
+Aspiring **VLSI Design Engineer**, focused on developing strong foundations in digital electronics, RTL design, Verilog, SystemVerilog, simulation, synthesis, and verification while continuously improving programming and problem-solving skills.
 
 # 🚀 Currently Learning
 
@@ -50,17 +99,17 @@
 </p>
 
 ```text
-Python                █████████░░░░░░░░
+Creo                    █████████░░░░░░░░
 
-C++                   ████████░░░░░░░░░
+C++                     ████████░░░░░░░░░
 
-Git                   ████░░░░░░░░░░░░░
+C                       ████░░░░░░░░░░░░░
 
-GitHub                ████░░░░░░░░░░░░░
+GitHub                  ████░░░░░░░░░░░░░
 
-Software Engineering  ███░░░░░░░░░░░░░░
+VLSI Design Engineering ███░░░░░░░░░░░░░░
 
-AI Tools              █████░░░░░░░░░░░░
+AI Tools                █████░░░░░░░░░░░░
 ```
 
 ---
@@ -72,34 +121,28 @@ AI Tools              █████░░░░░░░░░░░░
 <td>
 
 ### Languages
-
 - 🐍 Python
-- ⚙️ C++
+- ⚙️ C / C++
 
 </td>
-
 <td>
 
 ### Tools
-
-- 🌿 Git
-- 🐙 GitHub
+- 🌿 Git & GitHub
 - 💻 VS Code
+- 🔧 Proteus
+- 📐 Creo
 
 </td>
-
 <td>
 
 ### Exploring
-
 - 🤖 AI Tools
-- 📚 Software Engineering
+- 🔌 VLSI 
 
 </td>
 </tr>
 </table>
-
----
 
 # 🎯 2026 Roadmap
 
@@ -107,8 +150,6 @@ AI Tools              █████░░░░░░░░░░░░
 ☑ Learn Python
 
 ☑ Learn C++
-
-◉ Master Git
 
 ◉ Master GitHub
 
@@ -118,55 +159,18 @@ AI Tools              █████░░░░░░░░░░░░
 
 ○ Learn GitHub Actions
 
-○ Build AI Projects
+○ Build Projects
 
-○ Explore Full-Stack Development
+○ Explore Semiconductor
 ```
 
----
-
-# 📂 Featured Projects
-
-> 🚧 **Currently building my portfolio.**
-
-```text
-📘 Python Learning Journey
-
-⚙️ C++ Practice Repository
-
-🌿 Git & GitHub Learning
-
-🌐 Portfolio Website
-
-🤖 AI Experiments
-
-🚀 Open Source Contributions
-```
-
----
-
-# 📈 GitHub Journey
-
-```text
-Learning         ██████████░░░░░░
-
-Consistency      ████████████████
-
-Curiosity        ████████████████
-
-Projects          ██░░░░░░░░░░░░░
-```
-
----
 ## 🌱 Currently Focusing On
 
-- 🐍 Python
-- ⚙️ C++
-- 🌿 Git & GitHub
-- 🤖 AI Tools
-- 💻 Software Engineering
-- 🔌 IoT & Embedded Systems
-  
+- 🐍 **Python** – Strengthening programming fundamentals
+- ⚙️ **C++** – Improving coding and problem-solving skills
+- 🌿 **Git & GitHub** – Version control and project management
+- 🤖 **AI Tools** – Exploring AI-powered tools and technologies
+- 💻 **VLSI Design Engineering** – Learning development concepts and practices
 # 🔥 Contribution Streak
 
 <p align="center">
