@@ -62,12 +62,6 @@ My long-term goal is to become a **VLSI / RTL Design Engineer** by building stro
 - Proteus (Basic familiarity)
 - Creo (Basic familiarity)
 
-### 🐧 Development & Version Control
-- Git
-- GitHub
-- Linux Terminal (To explore)
-- Visual Studio Code
-
 ---
 
 # 🚀 Projects
@@ -125,43 +119,6 @@ I've also experimented with building websites locally as part of my personal lea
 
 ---
 
-# 🎯 Learning Roadmap
-
-My learning roadmap focuses on developing strong foundations in electronics, programming and VLSI design.
-
-```text
-☑ Explore Python Programming
-
-☑ Learn C++ Fundamentals
-
-◉ Improve Git & GitHub Skills
-
-○ Strengthen Digital Electronics
-
-○ Learn Verilog HDL
-
-○ Practise RTL Design and Simulation
-
-○ Explore FPGA Design and Synthesis
-
-○ Learn SystemVerilog and Verification
-
-○ Build Practical Technical Projects
-
-○ Explore VLSI Design Opportunities
-```
-
-# 🌱 Philosophy
-
-<div align="center">
-
-## **Think • Build • Learn • Repeat.**
-
-### *Always Curious • Always Learning • Always Improving.*
-
-</div>
-
----
 
 # 📫 Connect With Me
 
